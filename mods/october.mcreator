@@ -28,16 +28,16 @@
       }
     },
     {
-      "name": "MultiTool",
+      "name": "Wand",
       "type": "tool",
-      "sortid": 1,
+      "sortid": 3,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "multi_tool",
+      "registry_name": "wand",
       "metadata": {
         "files": [
-          "src/main/resources/assets/october/models/item/multi_tool.json",
-          "src/main/java/net/mcreator/october/item/MultiToolItem.java"
+          "src/main/java/net/mcreator/october/item/WandItem.java",
+          "src/main/resources/assets/october/models/item/wand.json"
         ]
       }
     }
@@ -47,7 +47,7 @@
   "language_map": {
     "en_us": {
       "item.october.ace_leggings": "Ace Leggings",
-      "item.october.multi_tool": "Multi Tool",
+      "item.october.wand": "Wand",
       "item.minecraft.splash_potion.effect.god": "Splash Potion of God",
       "item.minecraft.tipped_arrow.effect.god": "Arrow of God",
       "item.october.ace_helmet": "Ace Helmet",

@@ -22,8 +22,8 @@ import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import com.google.common.collect.Multimap;
 import com.google.common.collect.ImmutableMultimap;
 
-public class MultiToolItem extends TieredItem {
-	public MultiToolItem() {
+public class WandItem extends TieredItem {
+	public WandItem() {
 		super(new Tier() {
 			public int getUses() {
 				return 10000;

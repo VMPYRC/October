@@ -13,6 +13,7 @@
     {
       "name": "Ace",
       "type": "armor",
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ace",
@@ -25,6 +26,20 @@
           "src/main/resources/assets/october/models/item/ace_chestplate.json"
         ]
       }
+    },
+    {
+      "name": "MultiTool",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "multi_tool",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/october/models/item/multi_tool.json",
+          "src/main/java/net/mcreator/october/item/MultiToolItem.java"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -32,6 +47,7 @@
   "language_map": {
     "en_us": {
       "item.october.ace_leggings": "Ace Leggings",
+      "item.october.multi_tool": "Wand",
       "item.minecraft.splash_potion.effect.god": "Splash Potion of God",
       "item.minecraft.tipped_arrow.effect.god": "Arrow of God",
       "item.october.ace_helmet": "Ace Helmet",
@@ -61,6 +77,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "fabric-1.20.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.october",
     "lockBaseModFiles": false
   },
