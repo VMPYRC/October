@@ -1,4 +1,5 @@
 # October
 
-+ Resource Pack Changes for Minecraft 1.20.1
-+ [Full Changes](https://github.com/VMPYRC/October/wiki/Full-Changes)
++ Minecraft 1.20.1
++ [Resource Pack Changes](https://github.com/VMPYRC/October/wiki/Resource-Pack-Changes)
++ [Mods](https://github.com/VMPYRC/October/wiki/Mods)

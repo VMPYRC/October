@@ -1,0 +1,93 @@
+{
+  "_fv": 47,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of God",
+    "splashName": "Splash Potion of God",
+    "lingeringName": "Lingering Potion of God",
+    "arrowName": "Arrow of God",
+    "effects": [
+      {
+        "effect": {
+          "value": "FIRE_RESISTANCE"
+        },
+        "duration": 10000000000000,
+        "amplifier": 255,
+        "ambient": false,
+        "showParticles": false
+      },
+      {
+        "effect": {
+          "value": "HERO_OF_THE_VILLAGE"
+        },
+        "duration": 10000000000000,
+        "amplifier": 255,
+        "ambient": false,
+        "showParticles": false
+      },
+      {
+        "effect": {
+          "value": "INSTANT_HEALTH"
+        },
+        "duration": 10000000000000,
+        "amplifier": 255,
+        "ambient": false,
+        "showParticles": false
+      },
+      {
+        "effect": {
+          "value": "LUCK"
+        },
+        "duration": 10000000000000,
+        "amplifier": 255,
+        "ambient": false,
+        "showParticles": false
+      },
+      {
+        "effect": {
+          "value": "REGENERATION"
+        },
+        "duration": 10000000000000,
+        "amplifier": 255,
+        "ambient": false,
+        "showParticles": false
+      },
+      {
+        "effect": {
+          "value": "RESISTANCE"
+        },
+        "duration": 10000000000000,
+        "amplifier": 255,
+        "ambient": false,
+        "showParticles": false
+      },
+      {
+        "effect": {
+          "value": "SATURATION"
+        },
+        "duration": 10000000000000,
+        "amplifier": 255,
+        "ambient": false,
+        "showParticles": false
+      },
+      {
+        "effect": {
+          "value": "STRENGTH"
+        },
+        "duration": 10000000000000,
+        "amplifier": 255,
+        "ambient": false,
+        "showParticles": false
+      },
+      {
+        "effect": {
+          "value": "WATER_BREATHING"
+        },
+        "duration": 10000000000000,
+        "amplifier": 255,
+        "ambient": false,
+        "showParticles": false
+      }
+    ]
+  }
+}
