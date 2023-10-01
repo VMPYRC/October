@@ -1,16 +1,18 @@
 {
   "schemaVersion": 1,
   "id": "october",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "name": "October",
+  "description": "GitHub-VMPYRC-October",
   "authors": [
-    "Bun, MCreator"
+    "VMPYRC"
   ],
   "contact": {
-    "homepage": "https://mcreator.net",
+    "homepage": "https://github.com/VMPYRC/October",
     "sources": ""
   },
-  "license": "Academic Free License v3.0",
+  "license": "All Rights Reserved",
+  "icon": "assets/october/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
