@@ -1,0 +1,356 @@
+{
+  "mod_elements": [
+    {
+      "name": "God",
+      "type": "potion",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "god",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Ace",
+      "type": "armor",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ace",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/october/item/AceItem.java",
+          "src/main/resources/assets/october/models/item/ace_boots.json",
+          "src/main/resources/assets/october/models/item/ace_leggings.json",
+          "src/main/resources/assets/october/models/item/ace_helmet.json",
+          "src/main/resources/assets/october/models/item/ace_chestplate.json"
+        ]
+      }
+    },
+    {
+      "name": "Wand",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wand",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/october/item/WandItem.java",
+          "src/main/resources/assets/october/models/item/wand.json"
+        ]
+      }
+    },
+    {
+      "name": "Saddle1",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "saddle_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/october/recipes/saddle_1.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "Saddle2",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "saddle_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/october/recipes/saddle_2.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "LeatherHorseArmor",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "leather_horse_armor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/october/recipes/leather_horse_armor.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "IronHorseArmor",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_horse_armor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/october/recipes/iron_horse_armor.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "GoldenHorseArmor",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_horse_armor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/october/recipes/golden_horse_armor.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "DiamondHorseArmor",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_horse_armor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/october/recipes/diamond_horse_armor.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "StringToCobweb",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "string_to_cobweb",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/october/recipes/string_to_cobweb.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "CobwebToString",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobweb_to_string",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/october/recipes/cobweb_to_string.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "EnchantedGoldenApple",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enchanted_golden_apple",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/october/recipes/enchanted_golden_apple.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RedMushroomBlock",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_mushroom_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/october/recipes/red_mushroom_block.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "BrownMushroomBlock",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brown_mushroom_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/october/recipes/brown_mushroom_block.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RottenFleshToLeather",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rotten_flesh_to_leather",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/october/recipes/rotten_flesh_to_leather.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RedMushrooms",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_mushrooms",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/october/recipes/red_mushrooms.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "BrownMushrooms",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brown_mushrooms",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/october/recipes/brown_mushrooms.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "ChainmailBoots",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chainmail_boots",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/october/recipes/chainmail_boots.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "ChainmailChestplate",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chainmail_chestplate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/october/recipes/chainmail_chestplate.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "ChainmailHelmet",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chainmail_helmet",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/october/recipes/chainmail_helmet.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "ChainmailLeggings",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chainmail_leggings",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/october/recipes/chainmail_leggings.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "NameTag",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "name_tag",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/october/recipes/name_tag.json"
+        ]
+      },
+      "path": "~/Recipes"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.october.ace_leggings": "Ace Leggings",
+      "item.october.wand": "Wand",
+      "item.minecraft.splash_potion.effect.god": "Splash Potion of God",
+      "item.minecraft.tipped_arrow.effect.god": "Arrow of God",
+      "item.october.ace_helmet": "Ace Helmet",
+      "item.minecraft.potion.effect.god": "Potion of God",
+      "item.october.ace_chestplate": "Ace Chestplate",
+      "item.minecraft.lingering_potion.effect.god": "Lingering Potion of God",
+      "item.october.ace_boots": "Ace Boots"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Recipes",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "october",
+    "modName": "October",
+    "version": "0.0.1",
+    "description": "GitHub-VMPYRC-October",
+    "author": "VMPYRC",
+    "websiteURL": "https://github.com/VMPYRC/October",
+    "license": "All Rights Reserved",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "pack",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "fabric-1.20.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.october",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300336712
+}
