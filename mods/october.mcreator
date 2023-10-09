@@ -320,6 +320,20 @@
         ]
       },
       "path": "~/Recipes"
+    },
+    {
+      "name": "Obsidian",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/october/recipes/obsidian.json"
+        ]
+      },
+      "path": "~/Recipes"
     }
   ],
   "variable_elements": [],
