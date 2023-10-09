@@ -306,6 +306,20 @@
         ]
       },
       "path": "~/Recipes"
+    },
+    {
+      "name": "NetherWartBlock",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_wart_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/october/recipes/nether_wart_block.json"
+        ]
+      },
+      "path": "~/Recipes"
     }
   ],
   "variable_elements": [],

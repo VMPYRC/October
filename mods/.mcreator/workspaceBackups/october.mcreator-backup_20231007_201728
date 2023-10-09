@@ -264,6 +264,48 @@
         ]
       },
       "path": "~/Recipes"
+    },
+    {
+      "name": "ChainmailHelmet",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chainmail_helmet",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/october/recipes/chainmail_helmet.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "ChainmailLeggings",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chainmail_leggings",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/october/recipes/chainmail_leggings.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "NameTag",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "name_tag",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/october/recipes/name_tag.json"
+        ]
+      },
+      "path": "~/Recipes"
     }
   ],
   "variable_elements": [],
@@ -286,6 +328,10 @@
     "children": [
       {
         "name": "Recipes",
+        "children": []
+      },
+      {
+        "name": "GodPotion",
         "children": []
       }
     ]
