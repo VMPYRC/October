@@ -200,7 +200,7 @@
       "type": "recipe",
       "sortid": 16,
       "compiles": true,
-      "locked_code": false,
+      "locked_code": true,
       "registry_name": "rotten_flesh_to_leather",
       "metadata": {
         "files": [
@@ -303,6 +303,34 @@
       "metadata": {
         "files": [
           "src/main/resources/data/october/recipes/name_tag.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "Obsidian",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/october/recipes/obsidian.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "NetherWarts",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_warts",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/october/recipes/nether_warts.json"
         ]
       },
       "path": "~/Recipes"

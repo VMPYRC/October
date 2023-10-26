@@ -196,20 +196,6 @@
       "path": "~/Recipes"
     },
     {
-      "name": "RottenFleshToLeather",
-      "type": "recipe",
-      "sortid": 16,
-      "compiles": true,
-      "locked_code": true,
-      "registry_name": "rotten_flesh_to_leather",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/october/recipes/rotten_flesh_to_leather.json"
-        ]
-      },
-      "path": "~/Recipes"
-    },
-    {
       "name": "RedMushrooms",
       "type": "recipe",
       "sortid": 17,
@@ -308,20 +294,6 @@
       "path": "~/Recipes"
     },
     {
-      "name": "NetherWartBlock",
-      "type": "recipe",
-      "sortid": 24,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "nether_wart_block",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/october/recipes/nether_wart_block.json"
-        ]
-      },
-      "path": "~/Recipes"
-    },
-    {
       "name": "Obsidian",
       "type": "recipe",
       "sortid": 25,
@@ -331,6 +303,34 @@
       "metadata": {
         "files": [
           "src/main/resources/data/october/recipes/obsidian.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "NetherWarts",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_warts",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/october/recipes/nether_warts.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RottenFleshToLeather",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rotten_flesh_to_leather",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/october/recipes/rotten_flesh_to_leather.json"
         ]
       },
       "path": "~/Recipes"

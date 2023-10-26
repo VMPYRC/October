@@ -42,7 +42,7 @@
     "recipeReturnStack": {
       "value": "Blocks.NETHER_WART"
     },
-    "name": "nether_wart_block",
+    "name": "nether_warts",
     "namespace": "mod"
   }
 }

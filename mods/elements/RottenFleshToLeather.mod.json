@@ -6,8 +6,8 @@
     "recipeRetstackSize": 1,
     "group": "",
     "cookingBookCategory": "MISC",
-    "xpReward": 120.0,
-    "cookingTime": 200,
+    "xpReward": 100.0,
+    "cookingTime": 1,
     "craftingBookCategory": "MISC",
     "recipeShapeless": false,
     "smeltingInputStack": {

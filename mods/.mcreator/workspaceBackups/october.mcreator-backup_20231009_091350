@@ -292,6 +292,48 @@
         ]
       },
       "path": "~/Recipes"
+    },
+    {
+      "name": "NameTag",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "name_tag",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/october/recipes/name_tag.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "NetherWartBlock",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_wart_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/october/recipes/nether_wart_block.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "Obsidian",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/october/recipes/obsidian.json"
+        ]
+      },
+      "path": "~/Recipes"
     }
   ],
   "variable_elements": [],
