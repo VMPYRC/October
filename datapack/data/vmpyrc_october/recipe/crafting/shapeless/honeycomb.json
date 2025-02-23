@@ -1,0 +1,8 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": ["honeycomb_block"],
+	"result": {
+		"id": "honeycomb",
+		"count": 4
+	}
+}

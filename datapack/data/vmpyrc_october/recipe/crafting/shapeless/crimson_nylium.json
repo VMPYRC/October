@@ -1,0 +1,8 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": ["crimson_fungus", "dirt"],
+	"result": {
+		"id": "crimson_nylium",
+		"count": 1
+	}
+}

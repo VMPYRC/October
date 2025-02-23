@@ -1,0 +1,8 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": ["beetroot_soup"],
+	"result": {
+		"id": "bowl",
+		"count": 1
+	}
+}

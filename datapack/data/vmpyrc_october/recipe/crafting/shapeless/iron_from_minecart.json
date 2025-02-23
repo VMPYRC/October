@@ -1,0 +1,10 @@
+{
+	"type": "crafting_shapeless",
+	"category": "misc",
+	"group": "iron_ingot",
+	"ingredients": ["minecart"],
+	"result": {
+		"id": "iron_ingot",
+		"count": 5
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"type": "crafting_shapeless",
+	"category": "misc",
+	"group": "gold_ingot",
+	"ingredients": ["golden_sword"],
+	"result": {
+		"id": "gold_ingot",
+		"count": 2
+	}
+}

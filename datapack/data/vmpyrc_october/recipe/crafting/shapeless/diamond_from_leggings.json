@@ -1,0 +1,10 @@
+{
+	"type": "crafting_shapeless",
+	"category": "misc",
+	"group": "diamond",
+	"ingredients": ["diamond_leggings"],
+	"result": {
+		"id": "diamond",
+		"count": 7
+	}
+}

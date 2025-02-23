@@ -1,0 +1,8 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": ["music_disc_5", "music_disc_5"],
+	"result": {
+		"id": "music_disc_creator",
+		"count": 1
+	}
+}

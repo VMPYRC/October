@@ -1,0 +1,11 @@
+{
+	"type": "crafting_shaped",
+	"pattern": ["###", "###", "###"],
+	"key": {
+		"#": "string"
+	},
+	"result": {
+		"id": "cobweb",
+		"count": 1
+	}
+}

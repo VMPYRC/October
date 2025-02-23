@@ -1,0 +1,9 @@
+{
+	"type": "crafting_shapeless",
+	"group": "minecart",
+	"ingredients": ["chest_minecart"],
+	"result": {
+		"id": "minecart",
+		"count": 1
+	}
+}

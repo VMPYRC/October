@@ -1,0 +1,8 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": ["blue_ice"],
+	"result": {
+		"id": "packed_ice",
+		"count": 9
+	}
+}

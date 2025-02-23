@@ -1,0 +1,8 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": ["wheat_seeds", "dirt"],
+	"result": {
+		"id": "grass_block",
+		"count": 1
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"type": "crafting_shaped",
+	"pattern": ["  #", " Li", "L  "],
+	"key": {
+		"#": "string",
+		"L": "leather",
+		"i": "iron_ingot"
+	},
+	"result": {
+		"id": "name_tag",
+		"count": 1
+	}
+}
