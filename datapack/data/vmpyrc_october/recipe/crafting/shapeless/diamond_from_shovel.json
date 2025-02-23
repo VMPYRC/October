@@ -1,0 +1,10 @@
+{
+	"type": "crafting_shapeless",
+	"category": "misc",
+	"group": "diamond",
+	"ingredients": ["diamond_shovel"],
+	"result": {
+		"id": "diamond",
+		"count": 1
+	}
+}

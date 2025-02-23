@@ -1,0 +1,13 @@
+{
+	"type": "crafting_shaped",
+	"category": "equipment",
+	"pattern": ["###", "#G#", "###"],
+	"key": {
+		"#": "obsidian",
+		"G": "ghast_tear"
+	},
+	"result": {
+		"id": "crying_obsidian",
+		"count": 8
+	}
+}

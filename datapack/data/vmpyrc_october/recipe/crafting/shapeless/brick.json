@@ -1,0 +1,8 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": ["bricks"],
+	"result": {
+		"id": "brick",
+		"count": 4
+	}
+}

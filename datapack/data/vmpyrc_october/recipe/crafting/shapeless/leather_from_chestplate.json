@@ -1,0 +1,10 @@
+{
+	"type": "crafting_shapeless",
+	"category": "misc",
+	"group": "leather",
+	"ingredients": ["leather_chestplate"],
+	"result": {
+		"id": "leather",
+		"count": 8
+	}
+}

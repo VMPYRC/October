@@ -1,0 +1,12 @@
+{
+	"type": "crafting_shaped",
+	"category": "equipment",
+	"pattern": ["###", "# #"],
+	"key": {
+		"#": "chain"
+	},
+	"result": {
+		"id": "chainmail_helmet",
+		"count": 1
+	}
+}

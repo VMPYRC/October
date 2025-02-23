@@ -1,0 +1,11 @@
+{
+	"type": "crafting_shaped",
+	"pattern": ["#", "#"],
+	"key": {
+		"#": "fern"
+	},
+	"result": {
+		"id": "large_fern",
+		"count": 1
+	}
+}

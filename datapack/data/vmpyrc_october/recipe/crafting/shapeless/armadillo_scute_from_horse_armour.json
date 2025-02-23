@@ -1,0 +1,8 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": ["wolf_armor"],
+	"result": {
+		"id": "armadillo_scute",
+		"count": 6
+	}
+}

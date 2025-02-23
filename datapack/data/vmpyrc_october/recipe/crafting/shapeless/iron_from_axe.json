@@ -1,0 +1,10 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": ["iron_axe"],
+	"category": "misc",
+	"group": "iron_ingot",
+	"result": {
+		"id": "iron_ingot",
+		"count": 3
+	}
+}

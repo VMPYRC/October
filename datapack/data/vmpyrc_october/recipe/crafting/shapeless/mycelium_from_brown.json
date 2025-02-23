@@ -1,0 +1,8 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": ["brown_mushroom", "dirt"],
+	"result": {
+		"id": "mycelium",
+		"count": 1
+	}
+}

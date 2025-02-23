@@ -1,0 +1,8 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": ["clay"],
+	"result": {
+		"id": "clay_ball",
+		"count": 4
+	}
+}

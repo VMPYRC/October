@@ -1,0 +1,13 @@
+{
+	"type": "crafting_shaped",
+	"category": "misc",
+	"pattern": ["  #", "#S#", "# #"],
+	"key": {
+		"#": "diamond",
+		"S": "saddle"
+	},
+	"result": {
+		"id": "diamond_horse_armor",
+		"count": 1
+	}
+}

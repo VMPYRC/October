@@ -1,0 +1,8 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": ["turtle_helmet"],
+	"result": {
+		"id": "turtle_scute",
+		"count": 5
+	}
+}

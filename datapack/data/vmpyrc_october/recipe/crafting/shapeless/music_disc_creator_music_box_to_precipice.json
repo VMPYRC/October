@@ -1,0 +1,11 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": [
+		"music_disc_creator_music_box",
+		"music_disc_creator_music_box"
+	],
+	"result": {
+		"id": "music_disc_precipice",
+		"count": 1
+	}
+}

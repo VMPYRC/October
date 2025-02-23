@@ -1,0 +1,8 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": ["cobweb"],
+	"result": {
+		"id": "string",
+		"count": 9
+	}
+}

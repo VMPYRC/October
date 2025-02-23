@@ -1,0 +1,13 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [" ##", " H#", "P  "],
+	"key": {
+		"#": "prismarine_crystals",
+		"H": "heart_of_the_sea",
+		"P": "prismarine_shard"
+	},
+	"result": {
+		"id": "trident",
+		"count": 1
+	}
+}

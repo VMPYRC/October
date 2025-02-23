@@ -1,0 +1,11 @@
+{
+	"type": "crafting_shaped",
+	"pattern": ["##", "##"],
+	"key": {
+		"#": "red_mushroom"
+	},
+	"result": {
+		"id": "red_mushroom_block",
+		"count": 1
+	}
+}

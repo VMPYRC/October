@@ -1,0 +1,8 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": ["music_disc_blocks", "music_disc_blocks"],
+	"result": {
+		"id": "music_disc_chirp",
+		"count": 1
+	}
+}

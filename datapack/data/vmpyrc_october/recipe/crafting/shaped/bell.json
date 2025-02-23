@@ -1,0 +1,15 @@
+{
+	"type": "crafting_shaped",
+	"category": "misc",
+	"pattern": ["#/#", "#g#", "#G#"],
+	"key": {
+		"#": "stone",
+		"/": "stick",
+		"g": "gold_ingot",
+		"G": "gold_nugget"
+	},
+	"result": {
+		"id": "bell",
+		"count": 1
+	}
+}

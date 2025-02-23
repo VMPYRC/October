@@ -1,0 +1,8 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": ["music_disc_strad", "music_disc_strad"],
+	"result": {
+		"id": "music_disc_ward",
+		"count": 1
+	}
+}

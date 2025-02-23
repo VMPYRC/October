@@ -1,0 +1,9 @@
+{
+	"type": "crafting_shapeless",
+	"category": "building",
+	"ingredients": ["amethyst_block"],
+	"result": {
+		"id": "amethyst_shard",
+		"count": 4
+	}
+}

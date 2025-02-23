@@ -1,0 +1,10 @@
+{
+	"type": "crafting_shapeless",
+	"category": "misc",
+	"group": "chain",
+	"ingredients": ["chainmail_helmet"],
+	"result": {
+		"id": "chain",
+		"count": 5
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"type": "crafting_shaped",
+	"category": "misc",
+	"pattern": ["  g", "gSg", "g g"],
+	"key": {
+		"g": "gold_ingot",
+		"S": "saddle"
+	},
+	"result": {
+		"id": "golden_horse_armor",
+		"count": 1
+	}
+}

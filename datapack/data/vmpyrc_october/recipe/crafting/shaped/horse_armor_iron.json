@@ -1,0 +1,13 @@
+{
+	"type": "crafting_shaped",
+	"category": "misc",
+	"pattern": ["  i", "iSi", "i i"],
+	"key": {
+		"i": "iron_ingot",
+		"S": "saddle"
+	},
+	"result": {
+		"id": "iron_horse_armor",
+		"count": 1
+	}
+}

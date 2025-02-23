@@ -1,0 +1,8 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": ["snow_block"],
+	"result": {
+		"id": "snowball",
+		"count": 4
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"type": "crafting_shaped",
+	"category": "equipment",
+	"pattern": [" # ", " R ", "   "],
+	"key": {
+		"#": "honey_block",
+		"R": "piston"
+	},
+	"result": {
+		"id": "sticky_piston",
+		"count": 1
+	}
+}

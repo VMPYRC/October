@@ -1,0 +1,10 @@
+{
+	"type": "crafting_shapeless",
+	"category": "misc",
+	"group": "leather",
+	"ingredients": ["saddle"],
+	"result": {
+		"id": "leather",
+		"count": 3
+	}
+}

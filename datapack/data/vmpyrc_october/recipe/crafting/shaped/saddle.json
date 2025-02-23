@@ -1,0 +1,12 @@
+{
+	"type": "crafting_shaped",
+	"pattern": ["###", "T T"],
+	"key": {
+		"#": "leather",
+		"T": "tripwire_hook"
+	},
+	"result": {
+		"id": "saddle",
+		"count": 1
+	}
+}
