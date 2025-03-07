@@ -2,9 +2,9 @@
 	"type": "crafting_shapeless",
 	"category": "misc",
 	"group": "iron_ingot",
-	"ingredients": ["iron_sword"],
+	"ingredients": ["flint_and_steel"],
 	"result": {
 		"id": "iron_ingot",
-		"count": 2
+		"count": 1
 	}
 }
