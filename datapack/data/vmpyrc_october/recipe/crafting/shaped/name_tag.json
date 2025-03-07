@@ -1,10 +1,9 @@
 {
 	"type": "crafting_shaped",
-	"pattern": ["  #", " Li", "L  "],
+	"pattern": ["  #", " P ", "P  "],
 	"key": {
-		"#": "string",
-		"L": "leather",
-		"i": "iron_ingot"
+		"#": "minecraft:string",
+		"P": "minecraft:paper"
 	},
 	"result": {
 		"id": "name_tag",
