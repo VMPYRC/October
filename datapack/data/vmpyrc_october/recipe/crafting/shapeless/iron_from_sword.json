@@ -1,8 +1,8 @@
 {
 	"type": "crafting_shapeless",
-	"ingredients": ["iron_sword"],
 	"category": "misc",
 	"group": "iron_ingot",
+	"ingredients": ["iron_sword"],
 	"result": {
 		"id": "iron_ingot",
 		"count": 2
