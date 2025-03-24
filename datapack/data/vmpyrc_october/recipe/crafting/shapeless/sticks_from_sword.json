@@ -1,0 +1,10 @@
+{
+	"type": "crafting_shapeless",
+	"category": "misc",
+	"group": "wooden",
+	"ingredients": ["wooden_sword"],
+	"result": {
+		"id": "stick",
+		"count": 5
+	}
+}
