@@ -1,0 +1,10 @@
+{
+	"type": "crafting_shapeless",
+	"category": "misc",
+	"group": "stone",
+	"ingredients": ["stone_hoe"],
+	"result": {
+		"id": "cobblestone",
+		"count": 2
+	}
+}
