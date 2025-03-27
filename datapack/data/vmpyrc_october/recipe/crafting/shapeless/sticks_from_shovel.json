@@ -1,7 +1,6 @@
 {
 	"type": "crafting_shapeless",
-	"category": "misc",
-	"group": "wooden",
+	"group": "sticks",
 	"ingredients": ["wooden_shovel"],
 	"result": {
 		"id": "stick",

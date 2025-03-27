@@ -1,7 +1,6 @@
 {
 	"type": "crafting_shapeless",
-	"category": "misc",
-	"group": "chain",
+	"group": "chainmail",
 	"ingredients": ["chainmail_boots"],
 	"result": {
 		"id": "chain",
