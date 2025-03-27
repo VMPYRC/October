@@ -1,6 +1,5 @@
 {
 	"type": "crafting_shapeless",
-	"category": "misc",
 	"group": "iron_ingot",
 	"ingredients": ["flint_and_steel"],
 	"result": {

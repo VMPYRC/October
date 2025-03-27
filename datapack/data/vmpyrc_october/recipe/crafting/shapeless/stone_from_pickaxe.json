@@ -1,6 +1,5 @@
 {
 	"type": "crafting_shapeless",
-	"category": "misc",
 	"group": "stone",
 	"ingredients": ["stone_pickaxe"],
 	"result": {

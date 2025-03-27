@@ -1,6 +1,5 @@
 {
 	"type": "crafting_shapeless",
-	"category": "misc",
 	"group": "brown_dye",
 	"ingredients": ["red_dye", "yellow_dye", "blue_dye"],
 	"result": {

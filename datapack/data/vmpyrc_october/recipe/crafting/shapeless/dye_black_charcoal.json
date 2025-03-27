@@ -1,6 +1,5 @@
 {
 	"type": "crafting_shapeless",
-	"category": "misc",
 	"group": "black_dye",
 	"ingredients": ["charcoal"],
 	"result": {

@@ -1,6 +1,5 @@
 {
 	"type": "crafting_shapeless",
-	"category": "misc",
 	"group": "gold_ingot",
 	"ingredients": ["golden_leggings"],
 	"result": {
