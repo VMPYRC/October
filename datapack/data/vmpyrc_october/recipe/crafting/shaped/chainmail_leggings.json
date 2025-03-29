@@ -1,6 +1,6 @@
 {
 	"type": "crafting_shaped",
-	"category": "equipment",
+	"group": "chainmail",
 	"pattern": ["###", "# #", "# #"],
 	"key": {
 		"#": "chain"

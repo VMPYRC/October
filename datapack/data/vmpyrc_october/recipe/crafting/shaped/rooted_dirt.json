@@ -1,6 +1,5 @@
 {
 	"type": "crafting_shaped",
-	"category": "building",
 	"pattern": [" # ", "#O#", " # "],
 	"key": {
 		"#": "hanging_roots",

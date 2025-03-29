@@ -1,6 +1,5 @@
 {
 	"type": "crafting_shaped",
-	"category": "misc",
 	"pattern": ["#/#", "#g#", "#G#"],
 	"key": {
 		"#": "stone",

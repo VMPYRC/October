@@ -1,6 +1,5 @@
 {
 	"type": "crafting_shaped",
-	"category": "misc",
 	"pattern": ["  i", "iSi", "i i"],
 	"key": {
 		"i": "iron_ingot",
