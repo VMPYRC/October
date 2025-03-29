@@ -1,0 +1,9 @@
+{
+	"type": "crafting_shapeless",
+	"group": "wool",
+	"ingredients": ["green_bed"],
+	"result": {
+		"id": "green_wool",
+		"count": 3
+	}
+}
